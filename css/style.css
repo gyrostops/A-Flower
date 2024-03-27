@@ -124,12 +124,6 @@ body{
   background-color: #fff;
   z-index: -2;
 }
-    
-    body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
 
 .background {
   position: fixed;
